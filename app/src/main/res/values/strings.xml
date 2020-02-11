@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_shopping_tab">ShoppingTabActivity</string>
+    <string name="tab_text_1">Category</string>
+    <string name="tab_text_2">Items</string>
+    <string name="tab_text_3">Cart</string>
+</resources>
